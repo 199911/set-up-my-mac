@@ -12,8 +12,7 @@ brew cask install \
     iterm2 \
     google-chrome \
     firefox \
-    bitbar \
     sequel-pro \
-    dockertoolbox \
+    docker \
     alfred \
-    clipmenu
+    clipy
