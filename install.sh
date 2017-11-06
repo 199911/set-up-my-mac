@@ -26,3 +26,9 @@ brew cask install \
     sequel-pro \
     docker \
     sublime-text
+
+# ZSH
+brew install zsh zsh-completions
+# Install oh-my-zsh
+# https://github.com/robbyrussell/oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
