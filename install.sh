@@ -37,3 +37,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 #   Disable spotlight hot key (cmd + space)
 #   Set up Change input method hot key (cmd + space)
 # https://www.alfredapp.com/help/troubleshooting/cmd-space/
+
+# Turn on three finger drag
+# https://support.apple.com/en-us/HT204609
