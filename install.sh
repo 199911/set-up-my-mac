@@ -32,3 +32,8 @@ brew install zsh zsh-completions
 # Install oh-my-zsh
 # https://github.com/robbyrussell/oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# Update hot keys if need
+#   Disable spotlight hot key (cmd + space)
+#   Set up Change input method hot key (cmd + space)
+# https://www.alfredapp.com/help/troubleshooting/cmd-space/
